@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://leafoliage.github.io/portfolio",
+  "homepage": "https://leafoliage.github.io",
   "author": "leafoliage",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
